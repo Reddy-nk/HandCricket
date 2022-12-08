@@ -33,6 +33,6 @@ OUT : if bowlers bowls same number as batsmen then the batsmen is out . else bat
 In this game there is onyl a single wicket. If you are out once then you can't bat anymore and then you have to bowl.
 Rest of rules are same as normal cricket
 
-This is a single player game and the opponent is the computer.
+This is a single player game and the opponent is the computer.(Thinking of extending it to two player!)
 
 All the best, hit as many as u can :)
