@@ -1,19 +1,11 @@
 #HAND CRICKET
-#TEAM NAME: THREEPEAT
-#TEAM:
-#1. Jasti Sai Vikas
-#2. Nnandaluri Kailash Reddy
-#3. Kumara Teja Gutti
-#TEAM ID - 44
-#We had arranged multiple meets and contributed equally to this project.
-
 import random
 
 
 from toss_44 import match
 match()
 
-random_int = open("C:/Users/gutti/Onedrive/Desktop/Second Semester/44_web.txt", mode = "r")#random_int opens the file 'web.txt'
+random_int = open("Location of web.txt", mode = "r")#random_int opens the file 'web.txt'
 a = random_int.readlines()# a reads the lines in the file 44_web.txt
 b = list(a) #variable b is used to change the list of strings to a list of integers
 
