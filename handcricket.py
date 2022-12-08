@@ -2,7 +2,7 @@
 import random
 
 
-from toss_44 import match
+from toss import match
 match()
 
 random_int = open("Location of web.txt", mode = "r")#random_int opens the file 'web.txt'
